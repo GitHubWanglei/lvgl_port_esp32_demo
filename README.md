@@ -3,6 +3,8 @@ This esp32 project demo has integrated lvgl and ili9488 screen drivers, you can 
 
   
 The project used VSCode ide.
+![0f17406f-0753-46f3-8865-c4621b9955fa](https://github.com/GitHubWanglei/lvgl_port_esp32_demo/assets/16434720/fc1099ea-05b8-41cd-8b4c-553127f03a09)
+
 # Usage
 ### 1. The project folde is `sample_project`, so you should use VSCode ide open the `sample_project`.
 ### 2. In the VSCode, select USB port which your esp32 board connected.

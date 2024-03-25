@@ -1,13 +1,13 @@
 # lvgl_port_esp32_demo
-This esp32 project demo has integrated lvgl and ili9488 screen drivers, you can compile and flash to your esp32 board directly and run it without any other configuration! 
+This esp32 project demo has integrated lvgl and ili9488 display drivers, you can compile directly and run it without any other configuration! 
 
   
-The project used VSCode ide.  
+The project used VSCode ide, so you should install `ESP-IDF` extensition firstly in the VSCode.  
 
 <img src="https://github.com/GitHubWanglei/lvgl_port_esp32_demo/assets/16434720/fc1099ea-05b8-41cd-8b4c-553127f03a09" width="400"/>
 
 # Usage
-#### 1. The project folde is `sample_project`, so you should use VSCode ide open the `sample_project`.
+#### 1. The project folder is `sample_project`, so you should use VSCode open the `sample_project`.
 #### 2. In the VSCode, select USB port which your esp32 board connected.
 #### 3. Set espressif device target.
 #### 4. build the project directly!

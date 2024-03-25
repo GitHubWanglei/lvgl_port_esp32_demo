@@ -1,5 +1,5 @@
 # lvgl_port_esp32_demo
-This esp32 project demo has integrated lvgl and ili9488 screen drivers, you can compile and flash to your esp32 board directly and run it without any other configuration!
+This esp32 project demo has integrated lvgl and ili9488 screen drivers, you can compile and flash to your esp32 board directly and run it without any other configuration! 
 The project used VSCode ide.
 # Usage
 ### 1. The project folde is `sample_project`, so you should use VSCode ide open the `sample_project`.

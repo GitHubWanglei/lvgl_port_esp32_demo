@@ -1,0 +1,12 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-bridge.cfg"
+  ],
+  "idf.flashType": "UART",
+  "files.associations": {
+    "esp_lcd_ili9488.h": "c"
+  },
+  "idf.port": "/dev/cu.usbmodem143301"
+}

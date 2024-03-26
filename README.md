@@ -21,4 +21,4 @@ dependencies:
   idf:
     version: ">=4.1.0"
 ```
-#### 5. flash to you esp32 board.
+#### 5. Flash to you esp32 board.

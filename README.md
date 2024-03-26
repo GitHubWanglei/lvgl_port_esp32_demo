@@ -10,7 +10,7 @@ The project used VSCode ide, so you should install `ESP-IDF` extensition firstly
 #### 1. The project folder is `sample_project`, so you should use VSCode open the `sample_project`.
 #### 2. In the VSCode, select USB port which your esp32 board connected.
 #### 3. Set espressif device target.
-#### 4. build the project directly!
+#### 4. Build the project directly.
 When you build the project, the projcet will download `lvgl` and `ili9488` library firstly, download infomation is in the `idf_component.yml`:
 ```yml
 ## IDF Component Manager Manifest File
